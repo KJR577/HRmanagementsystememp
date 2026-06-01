@@ -71,7 +71,7 @@ export default function RecruitmentModule() {
 
   return (
     <div className="recruitment-container">
-      <h1 className="page-title">Recruitment</h1>
+     
 
       <div className="tabs">
         {["overview", "jobopenings"].map((t) => (
